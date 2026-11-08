@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07152f"/><stop offset=".55" stop-color="#101044"/><stop offset="1" stop-color="#250d45"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00d4ff"/><stop offset=".52" stop-color="#5577ff"/><stop offset="1" stop-color="#d45bff"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="250" rx="22" fill="url(#bg)"/>
+<g opacity=".22" stroke="#5caeff" fill="none"><path d="M0 190L180 70l100 75 120-105 140 150 130-90 130 80 130-125 130 110 140-95" stroke-width="2"/><path d="M0 215H1200M0 225H1200" /></g>
+<path d="M35 35H1165V215H35Z" fill="none" stroke="url(#line)" stroke-width="2" opacity=".85"/>
+<text x="600" y="112" text-anchor="middle" fill="#f4f7ff" font-family="monospace" font-size="66" font-weight="700" letter-spacing="7">SAHIL<tspan fill="#27c8ff">.OS</tspan></text>
+<text x="600" y="158" text-anchor="middle" fill="#b9caff" font-family="monospace" font-size="22" letter-spacing="8">IDEATE  •  BUILD  •  LAUNCH</text>
+<path d="M220 181H480M720 181H980" stroke="url(#line)" stroke-width="3" filter="url(#glow)"/>
+<circle cx="600" cy="181" r="5" fill="#23d9ff" filter="url(#glow)"/>
+</svg>
