@@ -2,7 +2,6 @@
 
 <img src="./assets/header.svg" alt="SAHIL.OS — Ideate Build Launch" width="100%">
 
-<img src="./assets/profile-photo.jpg" alt="Profile photo" width="170" style="border-radius:50%;">
 
 # Sahil Swami
 ### `CSE UNDERGRAD` · `JAVA` · `PYTHON`
