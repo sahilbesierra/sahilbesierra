@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-label="SAHIL.OS system footer">
+<defs><linearGradient id="line" x1="0" x2="1"><stop stop-color="#1677FF" stop-opacity="0"/><stop offset=".5" stop-color="#55A7FF"/><stop offset="1" stop-color="#1677FF" stop-opacity="0"/></linearGradient></defs>
+<rect width="1200" height="100" rx="12" fill="#080F20"/>
+<path d="M0 20H1200" stroke="url(#line)" stroke-width="2"/>
+<text x="30" y="61" fill="#55A7FF" font-family="monospace" font-size="17" letter-spacing="3">SAHIL.OS</text>
+<text x="1170" y="61" fill="#8296B5" font-family="monospace" font-size="13" text-anchor="end">END OF SESSION  //  KEEP BUILDING</text>
+</svg>
