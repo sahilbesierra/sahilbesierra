@@ -7,8 +7,7 @@
 ### `CSE UNDERGRAD` · `JAVA` · `PYTHON`
 
 **Interested in engineering practical solutions for real-world challenges.**
-
-[GitHub](https://github.com/sahilbesierra) · [LinkedIn](https://www.linkedin.com/in/sahil-swami-7109b5388/)
+ [LinkedIn](https://www.linkedin.com/in/sahil-swami-7109b5388/)
 
 `CREATE. BREAK. DEBUG. IMPROVE.`
 
