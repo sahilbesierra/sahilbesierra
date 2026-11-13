@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="SAHIL.OS — Ideate Build Launch" width="100%">
+<img src="./assets/header.svg" alt="SAHIL.OS — THINK IMPLEMENT DEBUG" width="100%">
 
 
 # Sahil Swami
